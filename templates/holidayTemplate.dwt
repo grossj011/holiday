@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Holiday</title>
+<!-- TemplateEndEditable -->
+	
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../styles/holidayStyles.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div id="sideNav"></div>
+<div id="main"><!-- TemplateBeginEditable name="content" -->
+	
+	
+<img src="../images/Holiday Banner.png" width="1200" height="200" alt=""/>
+
+  <h1>The Jolliest Time of Year</h1>
+  My holiday is Christmas. During Christmas, you eat lots of good food and exchange gifts with friends and family to show your appreciation for them. The meaning of Christmas to me is to spend time with your family and be thankful.
+	  
+  My fondest memories of Christmas are the ones where I was little. My favorite Christmas was when I first got my Xbox 360, and my second favorite Christmas was when I got my pull-up bar and hangboard. I also enjoyed the time where there was over a foot of snow and I went sledding down my neighbor's hill and played with my friends.
+	<!-- TemplateEndEditable -->
+	</div>
+	<div id="footer">
+	<p>Site designed by Jack</p>
+	</div>
+</body>
+</html>

@@ -1,0 +1,16 @@
+@charset "utf-8";
+#sideNav {
+    width: 300px;
+    float: left;
+}
+#main {
+    width: 900px;
+}
+.imgLeft {
+    border-radius: 10px;
+    border: 1px solid #000000;
+}
+.imgRight {
+    border-radius: 10px;
+    border: 1px solid #000000;
+}
